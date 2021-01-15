@@ -1,5 +1,5 @@
 # Lab04: Tic Tac Toe
-*Authors: Scott Falbo* <br>Version: 1.0.0 
+*Authors: Mike Falk* <br>Version: 1.0.0 
 
 ## Overview
 A two player terminal Tic Tac Toe game. <br>
@@ -17,8 +17,8 @@ A two player terminal Tic Tac Toe game. <br>
   + `newGame.Play(playerOne, playerTwo)` calls the `Play` method within class `Game` and passes it the player objects.
 
 ## Change Log
-+ 1.0.0 - *01/14/2021* - Built out and wired up the first three sections of the architecture section in lab with Krystian Francuz-Harris, Ameilia Valdes, and Michael Falk.
++ 1.0.0 - *01/14/2021* - Built out and wired up the first three sections of the architecture section in lab with Krystian Francuz-Harris, Ameilia Valdes, and Scott Falbo.
 
 ## Attribution
 + First part done in class lab with:
-  + Krystian Francuz-Harris, Ameilia Valdes, and Michael Falk
+  + Krystian Francuz-Harris, Ameilia Valdes, and Scott Falbo
